@@ -18,9 +18,12 @@ This repository contains all my **Beginner-level Python tasks** completed as par
 💡 GUI-based bonus versions:
 - `task4_1_bmi_gui.py`
 - `task5_1_dice_gui.py`
+- 
+## 🎥 Proof of Work (Screen Recordings)
 
-## 📁 Proof of Work
-Video screen recordings of all tasks are available.
+All beginner task recordings are uploaded to this shared Google Drive folder:
+
+👉 [Click here to view recordings](https://drive.google.com/drive/folders/1qP9fxNHHs0QH7xEziN_pL_ENwVGyuhze?usp=sharing)
 
 ---
 
