@@ -20,7 +20,7 @@ This repository contains all my **Beginner-level Python tasks** completed as par
 - `task5_1_dice_gui.py`
 
 ## 📁 Proof of Work
-Video screen recordings of all tasks are available (optional).
+Video screen recordings of all tasks are available.
 
 ---
 
