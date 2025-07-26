@@ -24,4 +24,4 @@ Video screen recordings of all tasks are available.
 
 ---
 
-Thanks for checking out my work!
+Thanks for checking out my work guys!
