@@ -1,6 +1,9 @@
 # ShadowFox – Python Development Internship
 
 👋 Hi, I’m R Hari Narayanan.
+🟢 Beginner Tasks ([Beginner_Tasks/](Beginner_Tasks))
+🟡 Intermediate Tasks ([Intermediate_Tasks/](Intermediate_Tasks))
+
 
 This repository contains all my Python tasks completed as part of the **ShadowFox Python Development Internship**.
 
